@@ -2,8 +2,6 @@
 
 An interactive **Power BI** dashboard built to analyze hospital admissions, revenue, patient demographics, and medical trends across insurance providers, hospitals, and doctors.
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow?logo=powerbi)
-
 ---
 
 ## 📊 Overview
@@ -62,7 +60,7 @@ Both pages include slicers to drill into the data:
 The data used in this dashboard is sourced from **Kaggle**.
 
 > Add the specific dataset name and link here, e.g.:
-> [Dataset Name](https://www.kaggle.com/datasets/...)
+> [Healthcare_Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
 
 ---
 
