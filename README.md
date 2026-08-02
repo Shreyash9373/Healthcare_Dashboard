@@ -59,7 +59,6 @@ Both pages include slicers to drill into the data:
 
 The data used in this dashboard is sourced from **Kaggle**.
 
-> Add the specific dataset name and link here, e.g.:
 > [Healthcare_Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
 
 ---
